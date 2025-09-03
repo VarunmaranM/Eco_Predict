@@ -1,0 +1,1 @@
+EcoPredict is a dashboard for short-term EV charging demand forecasting. It uses the Prophet time-series model to predict the number of charging sessions for the upcoming hours or days. The app allows users to simulate different scenarios, such as heatwaves or public holidays, to see how external factors might impact future charging demand.
